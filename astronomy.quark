@@ -8,7 +8,7 @@
 // optional:
     \since:          "2014",
     \schelp:         "Galaxy",
-//   \ext_dependancy: "SC3 plugins, ATK, AmbDec",
+//   \ext_dependency: "SC3 plugins, ATK, AmbDec",
 
 // If the quark depends on other quarks, you can specify it as a list containing:
 // (1) strings (just the quark name)
